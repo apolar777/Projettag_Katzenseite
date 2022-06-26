@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+.wrapper {
+  max-width: 600px;
+  margin: auto;
+  outline: 1px solid red;
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}

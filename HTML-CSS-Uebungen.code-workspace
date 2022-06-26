@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../HTML-CSS-Uebungen"
+	},
+	{
+		"path": "../../BTA-Kochen"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Projettag_Katzenseite"
+  }
+}
